@@ -35,7 +35,7 @@
     SENIOR NODE.JS BACKEND DEVELOPER
   </text>
   <text x="263" y="216" fill="#334155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="650">
-    Transaction systems | Accounting platforms | AI workflows | Operational dashboards
+    Transaction systems | Webhook infrastructure | Accounting platforms | AI workflows
   </text>
 
   <g>
@@ -46,7 +46,7 @@
     <text x="459" y="269" fill="#166534" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">PostgreSQL</text>
 
     <rect x="617" y="244" width="184" height="38" rx="19" fill="#EEF2FF"/>
-    <text x="641" y="269" fill="#3730A3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">AI Products</text>
+    <text x="641" y="269" fill="#3730A3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">Event Delivery</text>
 
     <rect x="815" y="244" width="210" height="38" rx="19" fill="#FEF3C7"/>
     <text x="839" y="269" fill="#92400E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">Quaniac LLC</text>

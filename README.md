@@ -26,11 +26,11 @@
       </td>
       <td align="center" width="20%">
         <strong>Domains</strong><br />
-        Accounting, Legal AI, Fintech
+        Fintech, Webhooks, Accounting
       </td>
       <td align="center" width="20%">
         <strong>Backend Proof</strong><br />
-        Auth, SQL, Reports, AI Context
+        Auth, Queues, Retries, Logs
       </td>
       <td align="center" width="20%">
         <strong>Direction</strong><br />
@@ -42,9 +42,9 @@
 
 ## About
 
-I build backend systems that go beyond simple CRUD: authentication, domain modeling, financial workflows, AI-assisted products, report generation, operational visibility, and APIs structured enough for real product teams to maintain.
+I build backend systems that go beyond simple CRUD: authentication, domain modeling, transaction workflows, webhook/event delivery, retry systems, AI-assisted products, report generation, operational visibility, and APIs structured enough for real product teams to maintain.
 
-My strongest work sits at the intersection of backend engineering and business-critical workflows: accounting/tax, legal AI, education platforms, analytics systems, and fintech-style transaction processing.
+My strongest work sits at the intersection of backend engineering and business-critical workflows: fintech-style transaction processing, webhook infrastructure, accounting/tax, legal AI, education platforms, analytics systems, and operational dashboards.
 
 ## Core Stack
 
@@ -53,6 +53,8 @@ My strongest work sits at the intersection of backend engineering and business-c
   <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/REST%20APIs-0f172a?style=for-the-badge" alt="REST APIs" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Webhooks-111827?style=for-the-badge" alt="Webhooks" />
+  <img src="https://img.shields.io/badge/Prisma-2d3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
@@ -66,6 +68,30 @@ My strongest work sits at the intersection of backend engineering and business-c
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/judahel2025/TradeSync-Lite">TradeSync Lite</a></h3>
+      <p><strong>Transaction-processing backend system.</strong></p>
+      <p>Fintech-style gift card transaction simulation for trade intake, async processing, verification, payout attempts, retry backoff, status lifecycles, logs, and operations monitoring.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Workflow-Async%20Processing-b45309?style=flat-square" alt="Async Processing" />
+        <img src="https://img.shields.io/badge/Reliability-Retry%20Backoff-0f766e?style=flat-square" alt="Retry Backoff" />
+        <img src="https://img.shields.io/badge/Visibility-Logs%20%2B%20Dashboard-1d4ed8?style=flat-square" alt="Logs and Dashboard" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/judahel2025/RelayCore-Lite">RelayCore Lite</a></h3>
+      <p><strong>Webhook and event delivery infrastructure.</strong></p>
+      <p>Full-stack webhook platform for endpoint management, event creation, simulated background delivery, delivery attempts, retry schedules, failed-event recovery, logs, and admin monitoring.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Webhooks-Event%20Delivery-111827?style=flat-square" alt="Webhook Delivery" />
+        <img src="https://img.shields.io/badge/Attempts-Delivery%20History-2563eb?style=flat-square" alt="Delivery Attempts" />
+        <img src="https://img.shields.io/badge/Reliability-Retries%20%2B%20Recovery-0f766e?style=flat-square" alt="Retries and Recovery" />
+        <img src="https://img.shields.io/badge/Admin-Monitoring%20Console-9333ea?style=flat-square" alt="Admin Monitoring" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>RUBRIC3</h3>
       <p><strong>Smart accounting and Nigerian tax platform.</strong></p>
       <p>Node.js/Express backend plus React/TypeScript dashboard for income and expense tracking, tax calculations, AI accounting assistance, and financial report exports.</p>
@@ -76,18 +102,6 @@ My strongest work sits at the intersection of backend engineering and business-c
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>TradeSync Lite</h3>
-      <p><strong>Transaction-processing backend system.</strong></p>
-      <p>Fintech-style lifecycle simulation for trade requests, background processing, payout attempts, retries, status transitions, logs, and operational monitoring.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Workflow-Async%20Processing-b45309?style=flat-square" alt="Async Processing" />
-        <img src="https://img.shields.io/badge/Reliability-Retry%20Logic-0f766e?style=flat-square" alt="Retry Logic" />
-        <img src="https://img.shields.io/badge/Visibility-Logs%20%2B%20Dashboard-1d4ed8?style=flat-square" alt="Logs and Dashboard" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>Estoppel</h3>
       <p><strong>Legal AI workspace.</strong></p>
       <p>React frontend and Django REST backend for legal projects, notes, uploaded document context, streaming AI chat, legal prompt orchestration, and document exports.</p>
@@ -97,6 +111,8 @@ My strongest work sits at the intersection of backend engineering and business-c
         <img src="https://img.shields.io/badge/Exports-DOCX%20PDF%20PPTX%20XLSX-1d4ed8?style=flat-square" alt="Exports" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>AidLearn Analytics</h3>
       <p><strong>Analytics learning platform.</strong></p>
@@ -105,6 +121,16 @@ My strongest work sits at the intersection of backend engineering and business-c
         <img src="https://img.shields.io/badge/Frontend-React%20%2B%20TypeScript-2563eb?style=flat-square" alt="React TypeScript" />
         <img src="https://img.shields.io/badge/State-Zustand-111827?style=flat-square" alt="Zustand" />
         <img src="https://img.shields.io/badge/Product-LMS%20%2B%20Analytics-0f766e?style=flat-square" alt="LMS Analytics" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Backend Reliability Demos</h3>
+      <p><strong>Async systems, retries, and operational visibility.</strong></p>
+      <p>TradeSync Lite and RelayCore Lite show how I model real backend concerns: delayed processing, delivery attempts, retry backoff, failed-state recovery, audit logs, and admin dashboards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Pattern-Background%20Processing-b45309?style=flat-square" alt="Background Processing" />
+        <img src="https://img.shields.io/badge/Pattern-Retry%20Backoff-0f766e?style=flat-square" alt="Retry Backoff" />
+        <img src="https://img.shields.io/badge/Pattern-Operational%20Logs-1d4ed8?style=flat-square" alt="Operational Logs" />
       </p>
     </td>
   </tr>
@@ -155,6 +181,28 @@ My strongest work sits at the intersection of backend engineering and business-c
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/judahel2025/TradeSync-Lite">TradeSync Lite</a></h3>
+      <p>Full-stack transaction processing simulation for gift card trade requests, async verification, payout handling, retry backoff, logs, and operational dashboards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Prisma-2d3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+        <img src="https://img.shields.io/badge/Async%20Lifecycle-b45309?style=flat-square" alt="Async Lifecycle" />
+        <img src="https://img.shields.io/badge/Payout%20Retries-1d4ed8?style=flat-square" alt="Payout Retries" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/judahel2025/RelayCore-Lite">RelayCore Lite</a></h3>
+      <p>Webhook delivery infrastructure demo with endpoint CRUD, JSON event creation, background delivery simulation, attempt history, retries, failed-event recovery, and admin observability.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Webhooks-111827?style=flat-square" alt="Webhooks" />
+        <img src="https://img.shields.io/badge/Delivery%20Attempts-2563eb?style=flat-square" alt="Delivery Attempts" />
+        <img src="https://img.shields.io/badge/Retry%20Recovery-0f766e?style=flat-square" alt="Retry Recovery" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/aidlearnanalytics/aidlearnanalytics">AidLearn Analytics</a></h3>
       <p>React/TypeScript learning platform with student dashboards, business/team workflows, admin tools, tutor consoles, labs, and analytics.</p>
       <p>
@@ -164,12 +212,12 @@ My strongest work sits at the intersection of backend engineering and business-c
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>TradeSync Lite</h3>
-      <p>Transaction-processing backend in progress for async trade lifecycle handling, payout simulation, retries, logs, and dashboard visibility.</p>
+      <h3><a href="https://github.com/judahel2025/judahel2025">GitHub Profile System</a></h3>
+      <p>Designed profile README with custom SVG identity, dashboard blocks, repository cards, project positioning, stats widgets, contribution graph, and senior backend role alignment.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Async%20Workflows-b45309?style=flat-square" alt="Async Workflows" />
-        <img src="https://img.shields.io/badge/Retry%20Systems-1d4ed8?style=flat-square" alt="Retry Systems" />
+        <img src="https://img.shields.io/badge/README-Profile%20Design-111827?style=flat-square" alt="Profile Design" />
+        <img src="https://img.shields.io/badge/SVG-Custom%20Hero-2563eb?style=flat-square" alt="Custom SVG Hero" />
+        <img src="https://img.shields.io/badge/Portfolio-Senior%20Backend-0f766e?style=flat-square" alt="Senior Backend Portfolio" />
       </p>
     </td>
   </tr>
@@ -181,9 +229,9 @@ My strongest work sits at the intersection of backend engineering and business-c
 | --- | --- |
 | API design | Authenticated REST APIs, route/controller/service separation, middleware boundaries |
 | Data ownership | User/profile ownership checks before financial, project, or chat data is returned |
-| Domain logic | Tax engines, transaction flows, report data, legal project context, learning workflows |
+| Domain logic | Tax engines, transaction flows, webhook delivery, report data, legal project context, learning workflows |
 | AI integration | Domain-specific prompts, structured context injection, streaming responses, AI summaries |
-| Operational thinking | Reports, histories, logs, dashboard summaries, health checks, status tracking |
+| Operational thinking | Reports, delivery attempts, payout retries, logs, dashboard summaries, health checks, status tracking |
 | Portfolio readiness | Each serious repo has a README that explains architecture and product purpose |
 
 ## GitHub Dashboard
@@ -213,7 +261,7 @@ My strongest work sits at the intersection of backend engineering and business-c
 
 ## Current Direction
 
-I am focused on senior Node.js backend roles involving REST API architecture, financial and transaction workflows, database modeling, authentication and authorization, async processing, retry systems, AI-assisted product architecture, operational dashboards, and reporting.
+I am focused on senior Node.js backend roles involving REST API architecture, financial and transaction workflows, webhook/event delivery, database modeling, authentication and authorization, async processing, retry systems, AI-assisted product architecture, operational dashboards, and reporting.
 
 ## Contact
 
