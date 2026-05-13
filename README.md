@@ -190,8 +190,8 @@ My strongest work sits at the intersection of backend engineering and business-c
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=judahel2025&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&border_radius=12" alt="Judah's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judahel2025&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=12" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=judahel2025&show_icons=false&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&border_radius=12" alt="GitHub activity summary" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judahel2025&layout=compact&theme=github_dark&hide_border=true&hide_title=true&langs_count=8&border_radius=12" alt="Language summary" />
 
 <br />
 
