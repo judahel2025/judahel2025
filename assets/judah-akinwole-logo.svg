@@ -1,0 +1,44 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#06131F"/>
+      <stop offset="0.45" stop-color="#0B1F31"/>
+      <stop offset="1" stop-color="#102B24"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="123" y1="45" x2="1040" y2="218" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.48" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#F8D66D"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" rx="32" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1152" height="212" rx="24" stroke="rgba(255,255,255,0.11)" stroke-width="2"/>
+
+  <g filter="url(#shadow)">
+    <rect x="72" y="62" width="132" height="132" rx="28" fill="#0F172A"/>
+    <path d="M108 108L138 82L168 108" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M108 152L138 178L168 152" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M138 84V176" stroke="rgba(255,255,255,0.82)" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <text x="242" y="118" fill="white" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="0">
+    Judah Akinwole
+  </text>
+  <text x="245" y="163" fill="#B9C7D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="1.6">
+    SENIOR NODE.JS BACKEND DEVELOPER
+  </text>
+  <text x="245" y="198" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">
+    Transaction Systems • Accounting Platforms • AI Workflows • Operational Dashboards
+  </text>
+
+  <g opacity="0.95">
+    <rect x="858" y="72" width="248" height="118" rx="20" fill="rgba(15,23,42,0.82)" stroke="rgba(255,255,255,0.12)"/>
+    <text x="884" y="112" fill="#F8D66D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">QUANIAC LLC</text>
+    <text x="884" y="145" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Builder of real</text>
+    <text x="884" y="174" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">product systems</text>
+  </g>
+</svg>
