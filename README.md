@@ -14,15 +14,30 @@
 <br />
 
 <div align="center">
-
-| Backend Portfolio Dashboard | Current Signal |
-| --- | --- |
-| Primary Role | Senior Node.js Backend Developer |
-| Company | Quaniac LLC |
-| Strongest Domains | Accounting, Tax, Legal AI, Learning Platforms, Transaction Processing |
-| Backend Proof | Auth, APIs, SQL, Reports, AI Context, Document Generation, Lifecycle Workflows |
-| Interview Direction | Senior Node.js, REST APIs, Financial Workflows, Async Systems |
-
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <strong>Role</strong><br />
+        Senior Node.js Backend
+      </td>
+      <td align="center" width="20%">
+        <strong>Company</strong><br />
+        Quaniac LLC
+      </td>
+      <td align="center" width="20%">
+        <strong>Domains</strong><br />
+        Accounting, Legal AI, Fintech
+      </td>
+      <td align="center" width="20%">
+        <strong>Backend Proof</strong><br />
+        Auth, SQL, Reports, AI Context
+      </td>
+      <td align="center" width="20%">
+        <strong>Direction</strong><br />
+        Senior Backend Roles
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## About
