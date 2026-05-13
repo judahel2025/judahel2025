@@ -112,27 +112,68 @@ My strongest work sits at the intersection of backend engineering and business-c
 
 ## Repository Blocks
 
-<div align="center">
-
-<a href="https://github.com/judahel2025/RUBRIC-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=judahel2025&repo=RUBRIC-3&theme=github_dark&hide_border=true&border_radius=12" alt="RUBRIC3 Frontend" />
-</a>
-<a href="https://github.com/judahel2025/The-RUBRIC-BACKEND">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=judahel2025&repo=The-RUBRIC-BACKEND&theme=github_dark&hide_border=true&border_radius=12" alt="RUBRIC3 Backend" />
-</a>
-
-<a href="https://github.com/judahel2025/THE-ESTOPEL-PROJECT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=judahel2025&repo=THE-ESTOPEL-PROJECT&theme=github_dark&hide_border=true&border_radius=12" alt="Estoppel Frontend" />
-</a>
-<a href="https://github.com/judahel2025/THE-ESTOPEL-PROJECT-BACKEND">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=judahel2025&repo=THE-ESTOPEL-PROJECT-BACKEND&theme=github_dark&hide_border=true&border_radius=12" alt="Estoppel Backend" />
-</a>
-
-<a href="https://github.com/aidlearnanalytics/aidlearnanalytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aidlearnanalytics&repo=aidlearnanalytics&theme=github_dark&hide_border=true&border_radius=12&show_owner=true" alt="AidLearn Analytics" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/judahel2025/RUBRIC-3">RUBRIC3 Frontend</a></h3>
+      <p>React/TypeScript dashboard for accounting, tax summaries, reports, transactions, settings, and AI assistant workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Domain-Finance%20UI-0f766e?style=flat-square" alt="Finance UI" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/judahel2025/The-RUBRIC-BACKEND">RUBRIC3 Backend</a></h3>
+      <p>Node.js/Express API for auth, transactions, profile isolation, Nigerian tax calculations, AI accounting guidance, and report exports.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/judahel2025/THE-ESTOPEL-PROJECT">Estoppel Frontend</a></h3>
+      <p>React legal AI workspace for projects, chats, onboarding, notes, instructions, markdown responses, and model selection.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Legal%20AI-6d28d9?style=flat-square" alt="Legal AI" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/judahel2025/THE-ESTOPEL-PROJECT-BACKEND">Estoppel Backend</a></h3>
+      <p>Django REST backend for legal projects, JWT auth, notes, documents, AI prompt orchestration, streaming chat, and exports.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django%20REST-092e20?style=flat-square&logo=django&logoColor=white" alt="Django REST" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+        <img src="https://img.shields.io/badge/Exports-DOCX%20PDF%20PPTX%20XLSX-1d4ed8?style=flat-square" alt="Exports" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/aidlearnanalytics/aidlearnanalytics">AidLearn Analytics</a></h3>
+      <p>React/TypeScript learning platform with student dashboards, business/team workflows, admin tools, tutor consoles, labs, and analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+        <img src="https://img.shields.io/badge/Zustand-111827?style=flat-square" alt="Zustand" />
+        <img src="https://img.shields.io/badge/Learning%20Platform-0f766e?style=flat-square" alt="Learning Platform" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>TradeSync Lite</h3>
+      <p>Transaction-processing backend in progress for async trade lifecycle handling, payout simulation, retries, logs, and dashboard visibility.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Async%20Workflows-b45309?style=flat-square" alt="Async Workflows" />
+        <img src="https://img.shields.io/badge/Retry%20Systems-1d4ed8?style=flat-square" alt="Retry Systems" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Engineering Signals
 
