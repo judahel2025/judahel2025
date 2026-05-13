@@ -1,107 +1,144 @@
+<div align="center">
+
 # Judah Akinwole
 
-Senior Node.js Backend Developer and founder of [Quaniac LLC](https://thequaniac.com), building accounting, legal-tech, education, analytics, and transaction-processing systems.
+### Senior Node.js Backend Developer | Founder, Quaniac LLC
 
-I focus on backend systems that go beyond simple CRUD: authentication, domain modeling, financial workflows, async processing, AI-assisted products, report generation, operational visibility, and APIs that are structured enough for real product teams to maintain.
+I build backend systems for accounting, legal-tech, education, analytics, AI workflows, and transaction-heavy products.
 
-## Backend Focus
+<p>
+  <a href="https://thequaniac.com"><img src="https://img.shields.io/badge/Company-Quaniac%20LLC-111827?style=for-the-badge" alt="Quaniac LLC" /></a>
+  <a href="mailto:judahakinwole@thequaniac.com"><img src="https://img.shields.io/badge/Email-judahakinwole%40thequaniac.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/judahel2025"><img src="https://img.shields.io/badge/GitHub-judahel2025-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+</p>
 
-- Node.js, Express.js, REST APIs, JWT authentication
-- PostgreSQL, Supabase, SQL-backed reporting, profile-based data isolation
-- Financial/accounting workflows, tax calculations, transaction records, report generation
-- AI-assisted products with domain-specific prompting and structured context
-- Middleware, validation, route protection, service-layer architecture
-- React/TypeScript product frontends that consume real backend APIs
-- Django REST Framework experience for legal-tech and document-generation systems
+<p>
+  <img src="https://komarev.com/ghpvc/?username=judahel2025&style=for-the-badge&color=0f766e" alt="Profile views" />
+</p>
 
-## Featured Work
+</div>
+
+## About Me
+
+I am preparing for senior Node.js backend roles and positioning my work around systems that show real product depth: authentication, domain modeling, financial workflows, AI-assisted products, report generation, operational dashboards, and transaction lifecycle design.
+
+My strongest work sits at the intersection of backend engineering and business-critical workflows: accounting/tax, legal AI, education platforms, analytics systems, and fintech-style transaction processing.
+
+## Backend Strengths
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0f172a?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Django%20REST-092e20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST" />
+</p>
+
+## Systems I Build
+
+| System Type | What I Focus On |
+| --- | --- |
+| Financial platforms | Transactions, tax logic, financial summaries, reports, AI accounting context |
+| Legal AI systems | Project context, notes, documents, streaming AI chat, export generation |
+| Learning platforms | Role-based dashboards, course operations, practice labs, analytics |
+| Transaction processors | Lifecycle states, background processing, retry logic, logs, monitoring |
+| Backend APIs | Auth, ownership checks, validation, service boundaries, database-backed workflows |
+
+## Featured Projects
 
 ### RUBRIC3
 
 Smart accounting and Nigerian tax platform built with a React/TypeScript frontend and Node.js/Express backend.
 
-What it demonstrates:
+**Backend/product depth:** JWT auth, Google OAuth, income/expense tracking, profile-based data isolation, Nigerian PIT/CIT tax calculations, VAT, development levy, report generation, AI accounting assistant, PDF/Excel/Word exports.
 
-- JWT authentication and Google OAuth
-- income and expense transaction management
-- profile-based financial data isolation
-- Nigerian Personal Income Tax and Company Income Tax calculations
-- VAT, development levy, withholding tax, and financial summaries
-- AI accounting/tax assistant with domain-specific tax context
-- PDF, Excel, and Word report generation
-- financial dashboards, tax summaries, reports, settings, and assistant UI
-
-Repos:
-
-- [RUBRIC3 Frontend](https://github.com/judahel2025/RUBRIC-3)
-- [RUBRIC3 Backend](https://github.com/judahel2025/The-RUBRIC-BACKEND)
-
-### AidLearn Analytics
-
-Data analytics learning platform for students, teams, and organizations.
-
-What it demonstrates:
-
-- large React/TypeScript frontend architecture
-- role-based routing for students, admins, tutors, bloggers, and organizations
-- learning dashboards, course player, quizzes, and practice labs
-- business/team training workflows
-- admin and tutor consoles
-- learner analytics and progress surfaces
-- Zustand-based client state management
-
-Repo:
-
-- [AidLearn Analytics](https://github.com/aidlearnanalytics/aidlearnanalytics)
+<p>
+  <a href="https://github.com/judahel2025/RUBRIC-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=judahel2025&repo=RUBRIC-3&theme=github_dark&hide_border=true" alt="RUBRIC3 Frontend" />
+  </a>
+  <a href="https://github.com/judahel2025/The-RUBRIC-BACKEND">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=judahel2025&repo=The-RUBRIC-BACKEND&theme=github_dark&hide_border=true" alt="RUBRIC3 Backend" />
+  </a>
+</p>
 
 ### Estoppel
 
-Legal AI workspace built with a React frontend and Django REST backend.
+Legal AI workspace with a React frontend and Django REST backend.
 
-What it demonstrates:
+**Backend/product depth:** legal projects, JWT auth, project notes, uploaded document context, jurisdiction/objective modeling, streaming AI responses, legal prompt orchestration, DOCX/PDF/PPTX/XLSX exports.
 
-- JWT authentication and user profile modeling
-- project-based legal matter management
-- project notes, documents, objectives, jurisdiction, and instructions
-- AI chat with project-aware context
-- streaming AI responses
-- legal document export workflows for DOCX, PDF, PPTX, and XLSX
-- backend prompt orchestration with legal reasoning and anti-fabrication rules
+<p>
+  <a href="https://github.com/judahel2025/THE-ESTOPEL-PROJECT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=judahel2025&repo=THE-ESTOPEL-PROJECT&theme=github_dark&hide_border=true" alt="Estoppel Frontend" />
+  </a>
+  <a href="https://github.com/judahel2025/THE-ESTOPEL-PROJECT-BACKEND">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=judahel2025&repo=THE-ESTOPEL-PROJECT-BACKEND&theme=github_dark&hide_border=true" alt="Estoppel Backend" />
+  </a>
+</p>
 
-Repos:
+### AidLearn Analytics
 
-- [Estoppel Frontend](https://github.com/judahel2025/THE-ESTOPEL-PROJECT)
-- [Estoppel Backend](https://github.com/judahel2025/THE-ESTOPEL-PROJECT-BACKEND)
+Data analytics learning platform for students, teams, tutors, administrators, and organizations.
+
+**Product depth:** role-based routing, learning dashboards, course player, quizzes, practical labs, business/team training flows, admin/tutor consoles, analytics surfaces, Zustand state management.
+
+<p>
+  <a href="https://github.com/aidlearnanalytics/aidlearnanalytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aidlearnanalytics&repo=aidlearnanalytics&theme=github_dark&hide_border=true&show_owner=true" alt="AidLearn Analytics" />
+  </a>
+</p>
 
 ### TradeSync Lite
 
-Transaction-processing backend system in progress. It simulates how fintech-style systems handle trade requests, background processing, payout attempts, retries, lifecycle states, logs, and operational dashboards.
+Transaction-processing backend system in progress. It simulates fintech-style trade requests, background processing, payout attempts, retries, lifecycle states, logs, and operational monitoring.
 
-Core ideas:
+```txt
+trade submitted -> pending -> processing -> approved/rejected -> payout -> completed/failed
+```
 
-- transaction lifecycle management
-- async/background processing
-- payout simulation
-- retry logic with backoff
-- operational logs
-- dashboard-facing APIs
-- backend architecture for transaction-heavy systems
+## Architecture Signals
 
-## Engineering Themes
+- I design APIs around workflows, not only tables.
+- I keep ownership and authorization checks close to protected data.
+- I separate routes, controllers, services, middleware, and domain logic.
+- I make financial/legal calculations traceable.
+- I expose system state through dashboards, reports, logs, and histories.
+- I document projects so reviewers understand the architecture quickly.
 
-- Design APIs around business workflows, not only database tables
-- Keep authentication and ownership checks close to the data boundary
-- Make financial and legal calculations traceable
-- Separate route handlers, services, middleware, and domain logic
-- Build dashboards that expose system state clearly
-- Write READMEs that explain architecture, not just installation steps
+## GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=judahel2025&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="Judah's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judahel2025&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=judahel2025&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=judahel2025&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+
+</div>
+
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/judahel2025/judahel2025/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/judahel2025/judahel2025/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/judahel2025/judahel2025/output/github-snake.svg" />
+</picture>
 
 ## Current Direction
 
-I am currently preparing for senior Node.js backend roles, with emphasis on:
+I am focused on senior Node.js backend roles involving:
 
 - REST API architecture
-- backend service design
 - financial and transaction workflows
 - database modeling
 - authentication and authorization
@@ -111,6 +148,7 @@ I am currently preparing for senior Node.js backend roles, with emphasis on:
 
 ## Contact
 
-- Company: [Quaniac LLC](https://thequaniac.com)
-- GitHub: [judahel2025](https://github.com/judahel2025)
-- Email: judahakinwole@thequaniac.com
+<p>
+  <a href="https://thequaniac.com"><img src="https://img.shields.io/badge/Quaniac%20LLC-thequaniac.com-111827?style=for-the-badge" alt="Quaniac LLC" /></a>
+  <a href="mailto:judahakinwole@thequaniac.com"><img src="https://img.shields.io/badge/Email-judahakinwole%40thequaniac.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
