@@ -1,0 +1,54 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="heroBg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F8FBFF"/>
+      <stop offset="0.46" stop-color="#F0FDFA"/>
+      <stop offset="1" stop-color="#EEF2FF"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="104" y1="82" x2="1050" y2="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2563EB"/>
+      <stop offset="0.52" stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#84CC16"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-25%" width="140%" height="155%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#0F172A" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="330" rx="36" fill="url(#heroBg)"/>
+  <rect x="26" y="26" width="1148" height="278" rx="30" fill="#FFFFFF" fill-opacity="0.72" stroke="#D7E5F2" stroke-width="2"/>
+
+  <path d="M58 252C190 208 300 238 430 199C598 149 690 88 850 112C1000 135 1076 198 1142 166" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" opacity="0.22"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="78" y="82" width="148" height="148" rx="34" fill="#FFFFFF"/>
+    <rect x="96" y="100" width="112" height="112" rx="26" fill="#EFF6FF"/>
+    <path d="M122 132L152 106L182 132" stroke="url(#accent)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M122 180L152 206L182 180" stroke="url(#accent)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M152 110V202" stroke="#0F172A" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <text x="260" y="130" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="850" letter-spacing="0">
+    Judah Akinwole
+  </text>
+  <text x="263" y="177" fill="#2563EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="800" letter-spacing="1.7">
+    SENIOR NODE.JS BACKEND DEVELOPER
+  </text>
+  <text x="263" y="216" fill="#334155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="650">
+    Transaction systems | Accounting platforms | AI workflows | Operational dashboards
+  </text>
+
+  <g>
+    <rect x="263" y="244" width="158" height="38" rx="19" fill="#E0F2FE"/>
+    <text x="287" y="269" fill="#075985" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">REST APIs</text>
+
+    <rect x="435" y="244" width="168" height="38" rx="19" fill="#DCFCE7"/>
+    <text x="459" y="269" fill="#166534" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">PostgreSQL</text>
+
+    <rect x="617" y="244" width="184" height="38" rx="19" fill="#EEF2FF"/>
+    <text x="641" y="269" fill="#3730A3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">AI Products</text>
+
+    <rect x="815" y="244" width="210" height="38" rx="19" fill="#FEF3C7"/>
+    <text x="839" y="269" fill="#92400E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">Quaniac LLC</text>
+  </g>
+</svg>

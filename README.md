@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/judah-akinwole-logo.svg" alt="Judah Akinwole - Senior Node.js Backend Developer" width="100%" />
+<img src="./assets/profile-hero-v2.svg" alt="Judah Akinwole - Senior Node.js Backend Developer" width="100%" />
 
 <br />
 
